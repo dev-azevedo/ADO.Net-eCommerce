@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VSO\\ALURA\\.Net\\eCommerceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8981270E-2044-4039-B047-C60E0ADDA2E6}|eCommerceAPI\\eCommerceAPI.csproj|c:\\vso\\alura\\.net\\ecommerceapi\\ecommerceapi\\repositories\\usuarioprocedurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8981270E-2044-4039-B047-C60E0ADDA2E6}|eCommerceAPI\\eCommerceAPI.csproj|solutionrelative:ecommerceapi\\repositories\\usuarioprocedurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981270E-2044-4039-B047-C60E0ADDA2E6}|eCommerceAPI\\eCommerceAPI.csproj|c:\\vso\\alura\\.net\\ecommerceapi\\ecommerceapi\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8981270E-2044-4039-B047-C60E0ADDA2E6}|eCommerceAPI\\eCommerceAPI.csproj|solutionrelative:ecommerceapi\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8981270E-2044-4039-B047-C60E0ADDA2E6}|eCommerceAPI\\eCommerceAPI.csproj|c:\\vso\\alura\\.net\\ecommerceapi\\ecommerceapi\\controllers\\usuariosprocedurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8981270E-2044-4039-B047-C60E0ADDA2E6}|eCommerceAPI\\eCommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\usuariosprocedurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\VSO\\ALURA\\.Net\\eCommerceAPI\\eCommerceAPI\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "eCommerceAPI\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\VSO\\ALURA\\.Net\\eCommerceAPI\\eCommerceAPI\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "eCommerceAPI\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AQIAAFkBAAAAAAAAAAAYwGgBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:12:17.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioProcedureRepository.cs",
+              "DocumentMoniker": "C:\\VSO\\ALURA\\.Net\\eCommerceAPI\\eCommerceAPI\\Repositories\\UsuarioProcedureRepository.cs",
+              "RelativeDocumentMoniker": "eCommerceAPI\\Repositories\\UsuarioProcedureRepository.cs",
+              "ToolTip": "C:\\VSO\\ALURA\\.Net\\eCommerceAPI\\eCommerceAPI\\Repositories\\UsuarioProcedureRepository.cs",
+              "RelativeToolTip": "eCommerceAPI\\Repositories\\UsuarioProcedureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:11:03.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosProcedureController.cs",
+              "DocumentMoniker": "C:\\VSO\\ALURA\\.Net\\eCommerceAPI\\eCommerceAPI\\Controllers\\UsuariosProcedureController.cs",
+              "RelativeDocumentMoniker": "eCommerceAPI\\Controllers\\UsuariosProcedureController.cs",
+              "ToolTip": "C:\\VSO\\ALURA\\.Net\\eCommerceAPI\\eCommerceAPI\\Controllers\\UsuariosProcedureController.cs",
+              "RelativeToolTip": "eCommerceAPI\\Controllers\\UsuariosProcedureController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:09:09.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
